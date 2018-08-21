@@ -14,7 +14,6 @@ class Ideone
 		StringBuilder sb=new StringBuilder(str);
 		sb.append(".");
 		System.out.print(sb);
-		
-		
 	}
 }
+			
