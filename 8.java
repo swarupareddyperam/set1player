@@ -18,6 +18,6 @@ class Ideone
 		}
 		String s1=a[0];
 		String s2=a[1];
-		System.out.print(s1.substring(0,1).toUpperCase()+""+s1.substring(1).toLowerCase()+" "+s2.substring(0,1).toUpperCase()+""+s1.substring(1).toLowerCase());
+		System.out.print(s1.substring(0,1).toUpperCase()+""+s1.substring(1).toLowerCase()+" "+s2.substring(0,1).toUpperCase()+""+s2.substring(1).toLowerCase());
 	}
 }
