@@ -14,7 +14,7 @@ class Ideone
 		int low=sc.nextInt();
 		int high=sc.nextInt();
 		int n,i,count=0;
-		for(n=low;n<high;n++)
+		for(n=low;n<=high;n++)
 		{
 			for(i=2;i<n;i++)
 			{
